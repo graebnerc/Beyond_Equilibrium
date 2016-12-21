@@ -1,39 +1,17 @@
 # Two-sided markets from an agent-based modeling perspective
+Here you find the code and additional information for the paper "Two-sided markets from an agent-based modeling perspective" by Torsten Heinrich and Claudius Gräbner published in the XXXX.
 
-## Welcome to GitHub Pages
+Detailed citation information:
 
-You can use the [editor on GitHub](https://github.com/graebnerc/gitpage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Abstract
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## The agent-based model
+You can obtain the code by cloning or downloading the associated repository via the link provided above.
 
-### Markdown
+Note that the main code is in the file ´XXX.py´.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+After having run the model, you can replicate the figures from the paper using the file ´XXX.py´.
 
-```markdown
-Syntax highlighted code block
+### Runing the model
+The model...
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/graebnerc/gitpage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
