@@ -8,6 +8,9 @@ Detailed citation information: Heinrich, T. and Gräbner, C. (2017): Two-sided m
 
 Link to the journal paper
 
+In case you have questions of comments you may comment directly in the Github project or contact us directly via email.
+Any feedback is highly appreciated!
+
 ## Abstract
 Two-sided markets are an important aspect of today's economies. Yet, the attention they have received in economic theory is limited, mainly due to methodological constraints of conventional approaches: two-sided markets quickly lead to non-trivial dynamics that would require a computational approach, as analytical models quickly become intractable.
 One approach to this problem is to opt for models that operate on an aggregated level, abstracting from most of the (micro-level) causes of these non-trivial dynamics. 
@@ -28,4 +31,7 @@ After having run the model, you can replicate the figures from the paper using t
 
 ### Runing the model
 The model...
+
+### Description of the files
+...
 
