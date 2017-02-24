@@ -1,7 +1,12 @@
 # Two-sided markets from an agent-based modeling perspective
 Here you find the code and additional information for the paper "Two-sided markets from an agent-based modeling perspective" by Torsten Heinrich and Claudius Gräbner published in the XXXX.
 
-Detailed citation information:
+Detailed citation information: Heinrich, T. and Gräbner, C. (2017): Two-sided markets from an agent-based modeling perspective, in: *International Journal of Computational Economics and Econometrics*, forthcoming.
+
+
+[Link to accepted working paper](https://ideas.repec.org/p/pra/mprapa/67860.html)
+
+Link to the journal paper
 
 ## Abstract
 Two-sided markets are an important aspect of today's economies. Yet, the attention they have received in economic theory is limited, mainly due to methodological constraints of conventional approaches: two-sided markets quickly lead to non-trivial dynamics that would require a computational approach, as analytical models quickly become intractable.
