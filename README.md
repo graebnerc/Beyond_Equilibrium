@@ -1,4 +1,5 @@
-# Beyond Equilibrium: Two-sided markets from an agent-based modeling perspective
+# Code and supplementary material
+
 Here you find the code and additional information for the paper "Two-sided markets from an agent-based modeling perspective" by Torsten Heinrich and Claudius Gräbner published in the XXXX.
 
 Detailed citation information: Heinrich, T. and Gräbner, C. (2017): Two-sided markets from an agent-based modeling perspective, in: *International Journal of Computational Economics and Econometrics*, forthcoming.
