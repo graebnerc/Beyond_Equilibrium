@@ -1,6 +1,6 @@
 # Code and supplementary material
 
-Here you find the code and additional information for the paper "Two-sided markets from an agent-based modeling perspective" by Torsten Heinrich and Claudius Gräbner published in the XXXX.
+Here you find the code and additional information for the paper "Two-sided markets from an agent-based modeling perspective" by Torsten Heinrich and Claudius Gräbner published in the International Journal of Computational Economics and Econometrics.
 
 Detailed citation information: Heinrich, T. and Gräbner, C. (2017): Two-sided markets from an agent-based modeling perspective, in: *International Journal of Computational Economics and Econometrics*, forthcoming.
 
