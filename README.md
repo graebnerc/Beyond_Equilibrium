@@ -60,8 +60,3 @@ to obtain 100 runs of the simulation. The first result is then stored under the 
 under the name `RIL_p01_99`.
 
 You can find additional information for using the two scrips in the files themselves.
-
-
-### Description of the files
-...
-
